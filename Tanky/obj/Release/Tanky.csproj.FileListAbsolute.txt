@@ -1,0 +1,20 @@
+C:\OneDrive\C#\Tanky\Tanky\bin\Release\Tanky.exe.config
+C:\OneDrive\C#\Tanky\Tanky\bin\Release\Tanky.exe
+C:\OneDrive\C#\Tanky\Tanky\bin\Release\Tanky.pdb
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.Game.resources
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.Properties.Resources.resources
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.csproj.GenerateResource.Cache
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.exe
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.pdb
+C:\OneDrive\Projects C#\Tanky\Tanky\bin\Release\Tanky.exe.config
+C:\OneDrive\Projects C#\Tanky\Tanky\bin\Release\Tanky.exe
+C:\OneDrive\Projects C#\Tanky\Tanky\bin\Release\Tanky.pdb
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.Game.resources
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.Properties.Resources.resources
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.csproj.GenerateResource.Cache
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.csproj.CoreCompileInputs.cache
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.exe
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.pdb
+C:\OneDrive\Projects C#\Tanky\Tanky\obj\Release\Tanky.csprojResolveAssemblyReference.cache
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.csprojResolveAssemblyReference.cache
+C:\OneDrive\C#\Tanky\Tanky\obj\Release\Tanky.csproj.CoreCompileInputs.cache

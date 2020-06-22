@@ -1,2 +1,2 @@
-# tanky
+# Tanky
 C# tanks game

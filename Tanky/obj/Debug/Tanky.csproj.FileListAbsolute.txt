@@ -1,0 +1,8 @@
+C:\OneDrive\C#\Tanky\Tanky\bin\Debug\Tanky.exe.config
+C:\OneDrive\C#\Tanky\Tanky\bin\Debug\Tanky.exe
+C:\OneDrive\C#\Tanky\Tanky\bin\Debug\Tanky.pdb
+C:\OneDrive\C#\Tanky\Tanky\obj\Debug\Tanky.Game.resources
+C:\OneDrive\C#\Tanky\Tanky\obj\Debug\Tanky.Properties.Resources.resources
+C:\OneDrive\C#\Tanky\Tanky\obj\Debug\Tanky.csproj.GenerateResource.Cache
+C:\OneDrive\C#\Tanky\Tanky\obj\Debug\Tanky.exe
+C:\OneDrive\C#\Tanky\Tanky\obj\Debug\Tanky.pdb
